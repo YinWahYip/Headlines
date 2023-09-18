@@ -1,6 +1,8 @@
 from bs4 import BeautifulSoup
 import requests, schedule, time
 
+print('ni-hao')
+
 def run_script():
     def bbc():
         print('*************************************BBC****************************************')
